@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to 高正锋JS
 
 You can use the [editor on GitHub](https://github.com/gaozhengfeng/js/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
